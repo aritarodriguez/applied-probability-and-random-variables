@@ -3,7 +3,7 @@
 
 This project explores the fundamentals of probability theory and random variables through practical simulations in R. It was developed as part of the Applied Data Science for Business Management certification to demonstrate key statistical and probabilistic concepts using reproducible code and visualizations.
 
-**Topics Covered***
+**Topics Covered**
 
 Random experiments (e.g., dice rolls)
 Event operations and probability calculations
@@ -13,8 +13,8 @@ Variance, standard deviation, and the Law of Large Numbers
 Real-world simulations (quality control, demand modeling, voting intention)
 Probability visualizations using ggplot2
 
-**
-Tools and Libraries**
+
+Tools and Libraries
 
 ggplot2 – visualization
 dplyr – data manipulation
