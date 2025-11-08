@@ -1,5 +1,5 @@
 # applied-probability-and-random-variables
-**Probability Simulations in R
+**Probability Simulations in R**
 
 This project explores the fundamentals of probability theory and random variables through practical simulations in R. It was developed as part of the Applied Data Science for Business Management certification to demonstrate key statistical and probabilistic concepts using reproducible code and visualizations.
 
